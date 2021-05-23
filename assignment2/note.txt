@@ -1,0 +1,4 @@
+shared regions sao servidores para as entidades (clientes)
+ -         -    -  clientes para o repositorio
+ 
+ sempre que o servidor receber uma mensagem instancia uma nova thread
